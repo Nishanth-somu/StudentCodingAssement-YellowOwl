@@ -20,8 +20,12 @@
 ## admin Can Edit and delete the detail  clicking action icon and delete icon 
 ![image](https://github.com/Nishanth-somu/StudentCodingAssement-YellowOwl/assets/138356011/613e4c9d-2bf8-4751-b572-04ea6f31b486)
 
+
 ## if admin press edit icon it will navigate to the below page
 ![image](https://github.com/Nishanth-somu/StudentCodingAssement-YellowOwl/assets/138356011/e4ce1a46-2d8d-4728-b8df-918fc913f5ba)
+
+## if admin want to delete data admin can press delete symbol it will detele
+![image](https://github.com/Nishanth-somu/StudentCodingAssement-YellowOwl/assets/138356011/9cf1c7c8-9047-4abd-a4d1-f1586399685b)
 
 ### The below mentioned will be display in mobile view
 
