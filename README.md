@@ -17,8 +17,15 @@
 
 ## the above is Add student dash board they can add the student it will navigate to Admin Dash board
 
-## user Can Edit the detail  clicking action icon 
+## admin Can Edit and delete the detail  clicking action icon and delete icon 
+![image](https://github.com/Nishanth-somu/StudentCodingAssement-YellowOwl/assets/138356011/613e4c9d-2bf8-4751-b572-04ea6f31b486)
 
+## if admin press edit icon it will navigate to the below page
+![image](https://github.com/Nishanth-somu/StudentCodingAssement-YellowOwl/assets/138356011/e4ce1a46-2d8d-4728-b8df-918fc913f5ba)
 
-# Edit Page
-# Delete Page
+### The below mentioned will be display in mobile view
+
+![image](https://github.com/Nishanth-somu/StudentCodingAssement-YellowOwl/assets/138356011/d6f43727-281d-470d-bc0b-520d10045fdc)
+
+### in mobile view screen will be display like this
+
