@@ -1,0 +1,11 @@
+.bg-color{
+
+    background-color:#4e1d8a;
+}
+
+.student-txt {
+    background: linear-gradient(to right, rgb(0, 255, 13), rgb(10, 63, 79), rgb(49, 185, 227));
+}
+th{
+    padding: 10px;
+}
